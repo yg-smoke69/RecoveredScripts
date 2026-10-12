@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Male_Lobby_Hat_Cos_Werewolf
+  m_Shader: {fileID: 4800000, guid: 053fa5892c6089b46a8bbae6a1b8b893, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: 010c594d88b7e5f40a771b75fe969373, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _MaskMap:
+        m_Texture: {fileID: 2800000, guid: fffcc68236816044a85d68d5382cf5f0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _MatCap:
+        m_Texture: {fileID: 2800000, guid: b1084b124e5ee664ba377732d11dae42, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Normalmap:
+        m_Texture: {fileID: 2800000, guid: b808d834a7ad73c4584fe0a66787f4a1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _SpecularmapGlossA:
+        m_Texture: {fileID: 2800000, guid: 01a692e4d2ab58d4ca14ab75065c990f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+      _AlphaMask: 1
+      _Cull: 2
+      _DestAlpha: 0
+      _DiffIntensity: 1
+      _RimPower: 4
+      _SourceAlpha: 1
+      _StencilComp: 6
+      _StencilOp: 2
+      _ZWrite2: 1
+    m_Colors:
+      _CharaSpectatorColor: {r: 0, g: 0, b: 0, a: 0}
+      _MatCapColor: {r: 1, g: 1, b: 1, a: 1}
+      _RimColor: {r: 1, g: 1, b: 1, a: 1}
